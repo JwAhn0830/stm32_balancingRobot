@@ -6487,16 +6487,6 @@
 		)
 		(uuid "533c2f45-7851-41d9-92a2-21613596546a")
 	)
-	(text "All 64 ohm resister replaced to 68 ohm"
-		(exclude_from_sim no)
-		(at 185.166 20.066 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-		(uuid "5a92769b-ccf4-4595-a80d-b610c8d3c6fc")
-	)
 	(text "TIM3_CH2"
 		(exclude_from_sim no)
 		(at 15.748 97.028 0)

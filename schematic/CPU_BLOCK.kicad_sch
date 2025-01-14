@@ -1841,7 +1841,7 @@
 		)
 		(uuid "fb92887a-9a90-43cc-987c-b3af0c1d8ede")
 	)
-	(text "1,2 connected : main flash memory (default)\n2,3 connected : system memory"
+	(text "1,2 connected : system memory / SRAM\n2,3 connected : main flash memory (default)"
 		(exclude_from_sim no)
 		(at 39.878 72.898 0)
 		(effects
@@ -1852,7 +1852,7 @@
 		)
 		(uuid "124a670c-8092-4751-854e-895b414ed5b9")
 	)
-	(text "1,2 connected : program the device via usb\n2,3 connected : run the program (default)"
+	(text "1,2 connected : SRAM when BOOT0 = 0\n2,3 connected : run the program (default)"
 		(exclude_from_sim no)
 		(at 38.608 110.998 0)
 		(effects
