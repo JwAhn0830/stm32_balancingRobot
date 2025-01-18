@@ -1,0 +1,4 @@
+../Core/Src/mpu6050.c:14:6:config_MPU6050_DEFAULT	16	static
+../Core/Src/mpu6050.c:21:9:init_MPU6050	40	static
+../Core/Src/mpu6050.c:97:6:readAccel_MPU6050	40	static
+../Core/Src/mpu6050.c:112:6:readGyro_MPU6050	40	static
