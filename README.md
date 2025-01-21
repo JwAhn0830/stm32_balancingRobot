@@ -11,14 +11,14 @@
 
 balacing robot with HAL library
 
-## Proeject diagram
+## Proeject Diagram
 <img src="https://github.com/user-attachments/assets/ac75ff71-23ef-4be1-9276-8845e8abc768" width="600" height="300">  
 
 ## Dev Enviroment
-- HardWare
+- Hardware
   - KiCAD
   - Solidworks
-- SoftWare
+- Software
   - STM32CubeIDE (stm32)
   - ESP-IDF (esp32)
   - nodeJs
