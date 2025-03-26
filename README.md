@@ -11,7 +11,7 @@
 
 balacing robot with HAL library
 
-## Proeject Diagram
+## Project Diagram
 <img src="https://github.com/user-attachments/assets/ac75ff71-23ef-4be1-9276-8845e8abc768" width="600" height="300">  
 
 ## Dev Enviroment
