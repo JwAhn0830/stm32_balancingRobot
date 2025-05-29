@@ -42,3 +42,4 @@ https://github.com/user-attachments/assets/21620eae-1ff0-435f-92ad-7fb4adb67d83
 
 [schematic](https://github.com/JwAhn0830/stm32_balancingRobot/tree/main/schematic)  
 [3d model](https://github.com/JwAhn0830/stm32_balancingRobot/tree/main/3Dmodel)  
+[server](https://github.com/JwAhn0830/stm32_balancingRobot/tree/main/server)
